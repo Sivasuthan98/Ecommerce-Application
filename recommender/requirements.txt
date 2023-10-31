@@ -1,0 +1,4 @@
+requests
+pickle
+numpy 
+pillow
